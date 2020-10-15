@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronJobMaker", "CronJobMaker.csproj", "{849ACFA6-E65D-4F67-8505-76AAAE76CB48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849ACFA6-E65D-4F67-8505-76AAAE76CB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849ACFA6-E65D-4F67-8505-76AAAE76CB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849ACFA6-E65D-4F67-8505-76AAAE76CB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849ACFA6-E65D-4F67-8505-76AAAE76CB48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A7CC6A-6F13-4CDB-B90E-49318E49DAD4}
+	EndGlobalSection
+EndGlobal
